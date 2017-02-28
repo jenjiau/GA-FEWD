@@ -1,0 +1,34 @@
+div {
+  background-color: lightgrey;
+  padding: 15px;
+}
+
+h1 {
+  color: white;
+  font-size: 18px;
+  background-color: black;
+  padding: 10px;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+p {
+  background-color: #FC532D;
+  font-size: 16px;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.blue {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+.yellow {
+  color: yellow;
+}

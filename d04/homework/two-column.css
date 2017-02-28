@@ -1,0 +1,48 @@
+div {
+  background-color: white;
+  padding: 30px 50px 50px 50px;
+}
+
+h1 {
+  font-family: helvetica, arial, sans-serif;
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+.one {
+  background-color: #CECCCF;
+  border: solid #858585;
+  border-width: thin;
+  height: 40px;
+  width: 700px;
+  margin: 40px 10px 10px 20px;
+}
+
+.two {
+  background-color: #CECCCF;
+  border: solid #858585;
+  border-width: thin;
+  display: inline-block;
+  width: 425px;
+  height: 250px;
+  margin: 10px 10px 10px 20px;
+}
+
+.three {
+  background-color: #CECCCF;
+  border: solid #858585;
+  border-width: thin;
+  display: inline-block;
+  width: 150px;
+  height: 250px;
+  margin: 10px 10px 10px 10px;
+}
+
+.four {
+  background-color: #CECCCF;
+  border: solid #858585;
+  border-width: thin;
+  height: 40px;
+  width: 700px;
+  margin: 10px 10px 10px 20px;
+}

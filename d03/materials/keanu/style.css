@@ -1,0 +1,31 @@
+h1 {
+  color: green;
+  background-color: pink;
+  border-style: solid;
+  font-size: 50px;
+  height: 70px;
+  width: 500px;
+  padding: 10px, 10px, 10px, 0px;
+  margin: 10px, 10px, 10px, 0px;
+  text-align: center;
+}
+
+a {
+  color: red;
+  font-style: italic;
+}
+
+div {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  margin-bottom: 20px;
+} 
+
+.favorite {
+  background-color: pink;
+}
+
+#kands {
+  height: 180px;
+}

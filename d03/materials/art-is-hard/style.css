@@ -1,0 +1,41 @@
+h1 {
+  color: grey;
+  font-family: helvetica;
+  font-size: 44px;
+}
+
+h2 {
+  color: grey;
+  font-family: helvetica;
+  font-size: 22px;
+}
+
+h3 {
+  color: grey;
+  font-family: helvetica;
+  font-size: 12px;
+}
+
+p {
+  color: black;
+  font-family: helvetica;
+  font-size: 16px;
+}
+
+.grey {
+  color: grey;
+  font-family: helvetica;
+  font-size: 12px;
+}
+
+.caption {
+  color: black;
+  font-family: helvetica;
+  font-size: 12px;
+}
+
+.box-shadow {
+  box-shadow: 3px 3px 5px 6px #ccc;  
+  border-radius: 10px;
+}
+
