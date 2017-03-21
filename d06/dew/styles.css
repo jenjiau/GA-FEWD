@@ -1,0 +1,155 @@
+h1, h2 {
+  display: inline-block;
+  margin: 0px;
+}
+
+h1 {
+  background-color: #B5191C;
+  color: white;
+  text-align: right;
+  padding: 10px 5px 10px 120px;
+}
+
+h2 {
+  padding-left: 8px;
+  font-size: 16px;
+  color: grey;
+  vertical-align: middle;
+}
+
+div.container {
+  width: 960px;
+}
+
+div.cover-photo {
+  width: 100%;
+  height: 300px;
+  background-image: url('me.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+div.main {
+  margin: 0 auto;
+  width: 360px;
+}
+
+div.main > p {
+  color: grey;
+  line-height: 22px;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  color: white;
+  background-color: blue;
+  width: 173px;
+  padding: 10px 0;
+  margin-bottom: 10px;
+}
+
+#email {
+  width: 100%;
+}
+
+#twitter, #medium, #pinterest {
+  margin-right: 10px;
+}
+
+#footer {
+  background-color: #424242;
+  color: white;
+  font-size: 10px;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  margin: 0;
+}
+
+/*img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+span {
+  text-align: left;
+  width: 20px;
+}
+
+div.contain {
+  display: inline-block;
+}
+
+div.logo_flag {
+  display: inline-block;
+}
+
+.about {
+  width: 250px;
+  padding-left: 225px;
+  padding-right: 225px;
+}
+
+.contact {
+  color: white;
+  font-size: 12px;
+  font-family: helvetica, arial, sans-serif;
+  width: 250px;
+  margin: auto;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  padding: 0px;
+  margin: 10px;
+  text-align: center;
+  font-size: 10px;
+}
+
+a.greybox {
+  background-color: grey;
+  width: 225px;
+  padding: 9px;
+}
+
+a.bluebox {
+  background-color: #58B9F5;
+  width: 95px;
+  padding: 10px;
+}
+
+a.pinkbox {
+  background-color: #FA73BB;
+  width: 90px;
+  padding: 10px;
+}
+
+a.brownbox {
+  background-color: #73594E;
+  width: 49%;
+  padding: 10px;
+}
+
+
+a.blackbox {
+  background-color: black;
+  width: 95px;
+  padding: 10px;
+}
+
+a.redbox {
+  background-color: #DE161A;
+  width: 95px;
+  padding: 10px;
+}
+
+contact-box {
+  width: 225px;
+}
+*/
+

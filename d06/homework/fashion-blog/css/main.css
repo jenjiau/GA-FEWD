@@ -33,6 +33,7 @@ img {
 
 div.nav {
   display: inline-block;
+  margin: 0 auto;
 }
 
 a#nav_link {
